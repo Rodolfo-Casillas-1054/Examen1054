@@ -10,7 +10,7 @@ A new Flutter project created with FlutLab - https://flutlab.io
 
 ![image](https://github.com/user-attachments/assets/23ea3f06-60ed-4311-8409-372d9c4bd6ff)
 
-aquuuiiii
+![image](https://github.com/user-attachments/assets/eae12218-ccc4-450f-9d18-3dd61b488aec)
 
 ![image](https://github.com/user-attachments/assets/9319bae4-3c1d-4910-bc8a-f88de536d39a)
 
